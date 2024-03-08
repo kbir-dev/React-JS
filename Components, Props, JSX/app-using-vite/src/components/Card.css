@@ -1,0 +1,23 @@
+.card{
+    padding: 30px;
+    height: 250px;
+    width: 210px;
+    background-color: gray;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.card img{
+    width: 100px;
+    align-self: center;
+}
+
+.card h1{
+    text-align: center;
+}
+
+.card p{
+    text-align: center;
+}
