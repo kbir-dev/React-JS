@@ -1,0 +1,16 @@
+.card{
+    height: 400px;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid white;
+    color: aliceblue;
+    text-align: center;
+}
+
+.card h1{
+    font-size: 30px;
+}
+
